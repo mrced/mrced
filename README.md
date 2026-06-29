@@ -73,4 +73,5 @@ To contribute to international Digital Forensics and Incident Response teams, su
 ## Contact
 
 LinkedIn: https://www.linkedin.com/in/onyalan-almeida-609a931b2/
+
 Professional contact available upon request.
