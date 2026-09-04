@@ -21,7 +21,9 @@ An anonymized investigation I conducted in a private professional capacity, exam
 
 ### [WebSec Auto-Auditor](https://github.com/mrced/websec-auto-auditor)
 
-A Python project I am developing to bring initial web security checks into one workflow: HTTP headers, TLS, SPF/DMARC, exposed files and WordPress indicators. Includes modular checks, risk scoring, a Streamlit interface and PDF reporting.
+A security auditing product evolving from a modular Python scanner and Streamlit interface into a React/TypeScript web platform with Firebase integrations. Both stages now live in one repository: the original Python workflow at the root and the web application in `platform/`. The platform has its own audit API.
+
+[Explore the product evolution](https://github.com/mrced/websec-auto-auditor/blob/main/docs/product-evolution.md) · [Cloud Run application](https://websec-auto-auditor-325258730362.us-east1.run.app)
 
 **Status:** In development / testing. Supports preliminary assessments; it does not replace a penetration test or a formal compliance assessment.
 
