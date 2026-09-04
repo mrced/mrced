@@ -1,77 +1,58 @@
 # Onyalan Silva Almeida
 
-**Digital Forensics & Incident Response Analyst**  
-Technologist in Cybersecurity  
+**Digital Forensics | Cybersecurity | Python Security Automation**
 
----
+IT professional with **10+ years of experience** in technical support, infrastructure and operations, now specializing in cybersecurity and digital forensics. My portfolio combines a real-world private forensic investigation with hands-on development of security automation in Python.
 
-## Professional Profile
+Based in Brazil and open to remote opportunities with international teams.
 
-Digital Forensics professional with practical experience in real-world investigative scenarios involving mobile and desktop environments.
+## Featured work
 
-Skilled in forensic acquisition, artifact analysis, metadata timeline reconstruction, and threat assessment. Experienced in cross-platform investigations (iOS & Windows) and structured forensic reporting aligned with professional standards.
+### [Digital Forensic Case Study](https://github.com/mrced/digital-forensics-case-threat-analysis)
 
-Currently advancing expertise toward international DFIR practices and corporate incident response environments.
+An anonymized investigation I conducted in a private professional capacity, examining an iOS device and a Windows 11 workstation following a reported threat of sensitive-content disclosure.
 
----
+- Used **FTK Imager, Autopsy and iLEAPP** for acquisition, disk analysis and iOS artifact parsing.
+- Preserved original evidence and verified integrity with **SHA-256**.
+- Correlated email, messaging and file-system artifacts to reconstruct a timeline.
+- Documented findings and limitations, distinguishing preparatory activity from confirmed transmission.
 
-## Technical Expertise
+[Read the case and investigative limitations](https://github.com/mrced/digital-forensics-case-threat-analysis)
 
-- Digital Forensic Acquisition & Analysis  
-- Cross-Device Artifact Correlation  
-- Email & Messaging Artifact Examination  
-- Metadata & Timeline Reconstruction  
-- Deleted File Recovery  
-- Threat-Based Forensic Assessment  
-- Vulnerability Analysis  
-- Linux & Windows Security Environments  
+### [WebSec Auto-Auditor](https://github.com/mrced/websec-auto-auditor)
 
----
+A Python project I am developing to bring initial web security checks into one workflow: HTTP headers, TLS, SPF/DMARC, exposed files and WordPress indicators. Includes modular checks, risk scoring, a Streamlit interface and PDF reporting.
 
-## Tools & Technologies
+**Status:** In development / testing. Supports preliminary assessments; it does not replace a penetration test or a formal compliance assessment.
 
-- Autopsy  
-- FTK Imager  
-- iLEAPP  
-- Volatility (Memory Forensics)  
-- Wireshark  
-- Nmap  
-- Nessus  
-- OpenVAS  
-- MySQL  
-- Windows Server  
-- Linux (multiple distributions)  
+## Experience behind the projects
 
----
+- **Corporate IT:** On-site and remote troubleshooting, system deployment, incident documentation and SLA-based support.
+- **Infrastructure:** Linux, Windows Server and MySQL environments, including professional experience in Argentina.
+- **Military service:** Former Communications and IT Sergeant in the Brazilian Army, with contributions to intelligence, counterintelligence and operational risk analysis, alongside team leadership and training. These are transferable skills supporting my current security specialization.
 
-## Featured Work
+## Practical capabilities
 
-### Digital Forensic Case Study  
-**Threat Assessment – Potential Non-Consensual Data Exposure**
+**Forensics:** Evidence preservation, forensic imaging, hash verification, deleted-file recovery, email and messaging artifact analysis, metadata correlation and timeline reconstruction.
 
-Real-world investigation (anonymized for confidentiality and legal compliance).  
-Includes cross-device analysis, email artifact examination, and forensic timeline reconstruction.
+**Tools used in the published case:** Autopsy, FTK Imager and iLEAPP.
 
-Additional DFIR case documentation and memory forensic projects in development.
+**IT and automation:** Python, Linux, Windows Server, MySQL, technical reporting and remote support.
 
----
+**Current development focus:** Security monitoring, SIEM workflows, threat detection, incident response, system hardening and cloud security.
+
+## Education
+
+- **Cybersecurity, Anhanguera Educacional** — in progress; expected completion December 2026.
+- **Computer Forensics training, Cruzeiro do Sul Virtual** — 2024.
+- Additional studies in forensic computing applied to law and criminal law theory — 2024.
 
 ## Languages
 
-- Portuguese — Native  
-- Spanish — Fluent  
-- English — B2 (actively progressing toward C1)  
-
----
-
-## Career Objective
-
-To contribute to international Digital Forensics and Incident Response teams, supporting corporate investigations, cybercrime analysis, and evidence-based threat assessments in global environments.
-
----
+- **Portuguese:** Native
+- **Spanish:** Fluent; professional experience in Argentina
+- **English:** Upper-intermediate (B2); Voxy High Intermediate certificate
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/onyalan-almeida-609a931b2/
-
-Professional contact available upon request.
+[LinkedIn](https://www.linkedin.com/in/onyalan/)
