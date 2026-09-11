@@ -23,7 +23,7 @@ An anonymized investigation I conducted in a private professional capacity, exam
 
 A defensive security platform that turns external technical signals into prioritized findings, reproducible evidence, mitigation guidance and security evolution by asset. The product combines a responsive React/TypeScript interface, Node.js API, Firebase, Cloud Run and Stripe subscriptions.
 
-[Explore the public technical portfolio](https://github.com/mrced/websec-sentinel) · [Open the live application](https://websec-auto-auditor-325258730362.us-east1.run.app)
+[Explore the public technical portfolio](https://github.com/mrced/websec-sentinel) · [Open the live application](https://websecsentinel.com)
 
 **Status:** Operational MVP in pilot validation. The public Essential Scan is non-destructive and does not replace a penetration test or formal compliance assessment.
 
