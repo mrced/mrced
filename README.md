@@ -1,8 +1,8 @@
 # Onyalan Silva Almeida
 
-**Digital Forensics | Cybersecurity | Python Security Automation**
+**Cybersecurity | Digital Forensics | Full-Stack Security Products**
 
-IT professional with **10+ years of experience** in technical support, infrastructure and operations, now specializing in cybersecurity and digital forensics. My portfolio combines a real-world private forensic investigation with hands-on development of security automation in Python.
+IT professional with **10+ years of experience** in technical support, infrastructure and operations, now specializing in cybersecurity, digital forensics and security-product engineering. My portfolio combines a real-world private forensic investigation with the development of a commercial security platform.
 
 Based in Brazil and open to remote opportunities with international teams.
 
@@ -19,13 +19,13 @@ An anonymized investigation I conducted in a private professional capacity, exam
 
 [Read the case and investigative limitations](https://github.com/mrced/digital-forensics-case-threat-analysis)
 
-### [WebSec Auto-Auditor](https://github.com/mrced/websec-auto-auditor)
+### [WebSec Sentinel](https://github.com/mrced/websec-sentinel)
 
-A security auditing product evolving from a modular Python scanner and Streamlit interface into a React/TypeScript web platform with Firebase integrations. Both stages now live in one repository: the original Python workflow at the root and the web application in `platform/`. The platform has its own audit API.
+A defensive security platform that turns external technical signals into prioritized findings, reproducible evidence, mitigation guidance and security evolution by asset. The product combines a responsive React/TypeScript interface, Node.js API, Firebase, Cloud Run and Stripe subscriptions.
 
-[Explore the product evolution](https://github.com/mrced/websec-auto-auditor/blob/main/docs/product-evolution.md) · [Cloud Run application](https://websec-auto-auditor-325258730362.us-east1.run.app)
+[Explore the public technical portfolio](https://github.com/mrced/websec-sentinel) · [Open the live application](https://websec-auto-auditor-325258730362.us-east1.run.app)
 
-**Status:** In development / testing. Supports preliminary assessments; it does not replace a penetration test or a formal compliance assessment.
+**Status:** Operational MVP in pilot validation. The public Essential Scan is non-destructive and does not replace a penetration test or formal compliance assessment.
 
 ## Experience behind the projects
 
